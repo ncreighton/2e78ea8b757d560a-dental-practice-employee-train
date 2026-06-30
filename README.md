@@ -1,0 +1,2 @@
+# 2e78ea8b757d560a-dental-practice-employee-train
+The dental practice tool you'd build yourself — if you had the time.  Privacy-first: all processing stays local, no data sent to third-party servers. Under 1MB. Zero performance impact on browser speed.  ## What's Included  - Dental Practice Employee Training Portal — fully configured and ready to use - One-click activation directly from the browse
